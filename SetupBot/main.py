@@ -1,0 +1,1 @@
+url = f"https://discord.com/oauth2/authorize?client_id={APP_ID}&permissions=2214840384&scope=applications.commands+bot"
